@@ -1,3 +1,3 @@
 export default function Loading() {
-  return <p>Notes are loadig...</p>;
+  return <p>Notes are loading...</p>;
 }
